@@ -107,7 +107,7 @@ The dashboard helps users explore the data and understand the main employee attr
 
 ## 📊 Dashboard Preview
 
-![Employee Attrition Dashboard](dashboard pbi.png) 
+![Power BI Dashboard](dashboard%20pbi.png)
 
 ## 📈 Project Insights
 
