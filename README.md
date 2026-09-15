@@ -107,7 +107,7 @@ The dashboard helps users explore the data and understand the main employee attr
 
 ## 📊 Dashboard Preview
 
-![Employee Attrition Dashboard](images/dashboard.png)
+![Employee Attrition Dashboard](dashboard pbi.png) 
 
 ## 📈 Project Insights
 
@@ -120,24 +120,4 @@ The project provides insights into employee behavior and workforce trends, inclu
 - Differences in income and experience among employees.
 - Areas that may require further investigation.
 
-## 📁 Project Structure
 
-```text
-Employee-Attrition-Analysis/
-│
-├── data/
-│   └── employee_data.csv
-│
-├── notebooks/
-│   └── Employee_Attrition_Analysis.ipynb
-│
-├── sql/
-│   └── Employee_Attrition_Analysis.sql
-│
-├── powerbi/
-│   └── Employee_Attrition_Dashboard.pbix
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
